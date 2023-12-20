@@ -3,7 +3,7 @@
 # Description: 
 A NodeJS service that retrieves information about the stock availability of each SKU based on sizes at the "Kazan WB" warehouse. The data is parsed from the wildberries.ru website, specifically from a product card, provided as an example - https://www.wildberries.ru/catalog/146972802/detail.aspx
 
-[Description in Russian is here:](task.txt)
+[Description in Russian is here](task.txt)
 
 ## Service Overview
 
